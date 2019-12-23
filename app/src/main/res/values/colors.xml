@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="csb_bg">#ff1d7ea5</color>
+    <color name="text_color_xoverset">#FFffffff</color>
+
+    <color name="output_channel_valume_text_color">#FFe3a638</color>
+    <color name="mastervolume_seekbar_progress_bg_color">#FF88949c</color>
+
+
+</resources>

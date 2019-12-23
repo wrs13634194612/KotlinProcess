@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="mhsb_seekbar">
+        <attr name="android:thumb" />
+        <attr name="mhs_numtext_size" format="dimension" />
+        <attr name="mhs_numtext_color" format="color" />
+        <attr name="mhs_progress_width" format="dimension" />
+        <attr name="mhs_progress_bar_round" format="dimension" />
+        <attr name="mhs_progress_background_color" format="color" />
+        <attr name="mhs_progress_color" format="color" />
+        <attr name="mhs_progress_max" format="integer" />
+    </declare-styleable>
+</resources>
